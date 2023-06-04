@@ -1,0 +1,15 @@
+C:\Users\oxsan\source\repos\noreply\noreply\bin\Debug\net6.0\noreply.exe
+C:\Users\oxsan\source\repos\noreply\noreply\bin\Debug\net6.0\noreply.deps.json
+C:\Users\oxsan\source\repos\noreply\noreply\bin\Debug\net6.0\noreply.runtimeconfig.json
+C:\Users\oxsan\source\repos\noreply\noreply\bin\Debug\net6.0\noreply.dll
+C:\Users\oxsan\source\repos\noreply\noreply\bin\Debug\net6.0\noreply.pdb
+C:\Users\oxsan\source\repos\noreply\noreply\obj\Debug\net6.0\noreply.csproj.AssemblyReference.cache
+C:\Users\oxsan\source\repos\noreply\noreply\obj\Debug\net6.0\noreply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxsan\source\repos\noreply\noreply\obj\Debug\net6.0\noreply.AssemblyInfoInputs.cache
+C:\Users\oxsan\source\repos\noreply\noreply\obj\Debug\net6.0\noreply.AssemblyInfo.cs
+C:\Users\oxsan\source\repos\noreply\noreply\obj\Debug\net6.0\noreply.csproj.CoreCompileInputs.cache
+C:\Users\oxsan\source\repos\noreply\noreply\obj\Debug\net6.0\noreply.dll
+C:\Users\oxsan\source\repos\noreply\noreply\obj\Debug\net6.0\refint\noreply.dll
+C:\Users\oxsan\source\repos\noreply\noreply\obj\Debug\net6.0\noreply.pdb
+C:\Users\oxsan\source\repos\noreply\noreply\obj\Debug\net6.0\noreply.genruntimeconfig.cache
+C:\Users\oxsan\source\repos\noreply\noreply\obj\Debug\net6.0\ref\noreply.dll
